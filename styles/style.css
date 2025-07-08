@@ -95,6 +95,7 @@ body {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     justify-content: center;
+    align-items: center;
     border: 1px solid gray;
     border-left: none;
     border-right: none;
@@ -103,4 +104,16 @@ body {
 
 .sponsor-image{
     padding: 36px 62px;
+}
+
+/* Collection Styles */
+
+.collection{
+    margin-top: 100px;
+}
+
+.coll-title{
+    text-align: center;
+    font-size: 1.75rem;
+    font-weight: 600;
 }
