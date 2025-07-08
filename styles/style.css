@@ -117,3 +117,7 @@ body {
     font-size: 1.75rem;
     font-weight: 600;
 }
+
+.collection-container{
+    display: grid;
+}
