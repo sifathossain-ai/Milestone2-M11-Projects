@@ -126,8 +126,10 @@ body {
 }
 
 .collection-box{
-    border: 1px solid rebeccapurple;
+    border: none;
     padding: 15px;
+    box-shadow: 0px 0px 40px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
 }
 
 .collection-image{
