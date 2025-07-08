@@ -135,3 +135,18 @@ body {
 .collection-image{
     width: 100%;
 }
+
+.collection-title{
+    font-size: 1.75rem;
+    font-weight: 500;
+}
+
+.collection-price{
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+.collection-description{
+    font-size: .90rem;
+    width: 250px;
+    color: #5d5d69;
+}
