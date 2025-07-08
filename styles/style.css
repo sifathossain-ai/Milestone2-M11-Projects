@@ -8,11 +8,15 @@
     font-style: normal;
 }
 
+*{
+    margin: 0px;
+}
+
 .display-flex {
     display: flex;
 }
 
-body {
+header, main{
     width: 1440px;
     margin: 0 auto;
     margin-top: 87px;
@@ -83,11 +87,12 @@ body {
 .title {
     font-size: 3.25rem;
     font-weight: 700;
+    margin-bottom: 20px;
 }
 
 .banner-btn {
     border-radius: 41px;
-    margin-top: 16px;
+    margin-top: 20px;
 }
 
 /* Sponsor Styles */
