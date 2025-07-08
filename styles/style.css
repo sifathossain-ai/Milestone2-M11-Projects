@@ -124,3 +124,8 @@ body {
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
 }
+
+.collection-box{
+    border: 1px solid rebeccapurple;
+    padding: 15px;
+}
