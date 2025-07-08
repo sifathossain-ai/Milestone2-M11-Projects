@@ -87,3 +87,20 @@ body {
     border-radius: 41px;
     margin-top: 16px;
 }
+
+/* Sponsor Styles */
+
+.sponsors{
+    margin-top: 69px;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    justify-content: center;
+    border: 1px solid gray;
+    border-left: none;
+    border-right: none;
+    border-top-width:thin;
+}
+
+.sponsor-image{
+    padding: 36px 62px;
+}
