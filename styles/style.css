@@ -13,8 +13,9 @@
 }
 
 body{
-    width: 1440;
+    width: 1440px;
     margin: 0 auto;
+    margin-top: 87px;
 }
 
 /* Navbar Styles */
